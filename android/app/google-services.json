@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198126890561",
+    "project_id": "quitsmokingapp-65d52",
+    "storage_bucket": "quitsmokingapp-65d52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198126890561:android:92f9826a24217d728f60c0",
+        "android_client_info": {
+          "package_name": "com.example.quit_smoking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRDcDFGe6750tnfXiLvloCA4u5v_KXomw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
