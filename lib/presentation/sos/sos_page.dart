@@ -321,7 +321,7 @@ class _SosPageState extends State<SosPage> with SingleTickerProviderStateMixin {
               borderRadius: radius12,
             ),
             child: Text(
-              "Mỗi cơn thèm bạn vượt qua là mỗjt chiến thắng.\n",
+              "Mỗi cơn thèm bạn vượt qua là một chiến thắng.\n",
               style: context.textTheme.bodySmall?.copyWith(color: textColor),
             ),
           ),
