@@ -17,10 +17,10 @@ class WelcomeHome extends StatelessWidget {
         Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('Xin chào, ${user?.name}', style: context.textTheme.bodySmall),
+            Text('Xin chào,', style: context.textTheme.bodySmall),
             Gap.smHeight,
             Text(
-              'Xin chào, ${user?.name}',
+              '${user?.name}',
               style: context.textTheme.bodyLarge?.copyWith(
                 fontWeight: FontWeight.w600,
               ),
