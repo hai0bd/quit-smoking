@@ -321,7 +321,7 @@ class _SosPageState extends State<SosPage> with SingleTickerProviderStateMixin {
               borderRadius: radius12,
             ),
             child: Text(
-              "Mỗi cơn thèm bạn vượt qua là mỗjt chiến thắng.\n",
+              "Mỗi cơn thèm bạn vượt qua là một chiến thắng.\n",
               style: context.textTheme.bodySmall?.copyWith(color: textColor),
             ),
           ),
@@ -357,7 +357,7 @@ class _SosPageState extends State<SosPage> with SingleTickerProviderStateMixin {
         crossAxisAlignment: CrossAxisAlignment.start,
         spacing: Gap.xs,
         children: [
-          Text('Lời động viên', style: context.textTheme.titleSmall),
+          Text('Một chút lời khuyên', style: context.textTheme.titleSmall),
           Gap.xsHeight,
           Text(
             '• Đi bộ 5 - 10 phút',
